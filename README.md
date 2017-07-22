@@ -1,0 +1,1 @@
+# does-github-support-inline-svg-in-markdown
